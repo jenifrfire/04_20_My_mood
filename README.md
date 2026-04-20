@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/fabfb3de-8fa3-4643-889b-d1316872d2ec
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🌈 Название и описание: «Mood Diary (Дневник настроения)».
+📸 Скриншот: Добавлен соответствующий раздел с плейсхолдером.
+🚀 Инструкция: Четкие шаги по использованию приложения.
+🔑 AI Прозрачность: Указано распределение ролей между вами и Gemini.
+👤 Об авторе: Информация о студенте и университете (с плейсхолдерами для вашего имени и номера).
+🛠 Процесс разработки:
+UX Логика: Подробно описано, как работают записи, localStorage и интерфейс.
+Финальный Промпт: Ваша детальная инструкция (CRAFT + CoT) сохранена в README.
+3P Правки: Описан переход на тему «Professional Polish» и внедрение анимаций.
+Вы можете найти и отредактировать этот файл в корневом каталоге проекта.
